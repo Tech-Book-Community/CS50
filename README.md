@@ -17,6 +17,10 @@
 |:-------:|:------:|:------:|:------:|
 |2024/3/17|Week 0 - Scratch|Yun, Murky, Tommy|Yun|
 |2024/ / |Week 1 - C|  |  |
+###    Week1 C    </br>
+-日期: 2024/3/30,(SAT)20:00~21:00
+-導讀人:Murky
+-筆記人員: Murky
 |2024/ / |Week 2 - Arrays|  |  |
 |2024/ / |Week 3 - Algorithm|  |  |
 |2024/ / |Week 4 - Memory|  |  |
