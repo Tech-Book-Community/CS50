@@ -13,20 +13,16 @@
 ##### (👉🏼筆記工要求: 「一定」要在Github上傳當週筆記，草稿或簡要版可以放hackMD做彈性的共筆補充!)
 
 #### 週次分工
-|Date     |Topic  |Host    |Recorder  |
+|日期     |主題  |導讀人  |筆記人員  |
 |:-------:|:------:|:------:|:------:|
 |2024/3/17|Week 0 - Scratch|Yun, Murky, Tommy|Yun|
-|2024/ / |Week 1 - C|  |  |
-###    Week1 C    </br>
--日期: 2024/3/30,(SAT)20:00~21:00
--導讀人:Murky
--筆記人員: Murky
-|2024/ / |Week 2 - Arrays|  |  |
-|2024/ / |Week 3 - Algorithm|  |  |
-|2024/ / |Week 4 - Memory|  |  |
-|2024/ / |Week 5 - Data Structures|  |  |
-|2024/ / |Week 6 - Python|  |  |
-|2024/ / |Week 7 - HTML, CSS, JavaScript|  |  |
-|2024/ / |Week 8 - SQL|  |  |
-|2024/ / |Week 9 - Flask|  |  |
-|2024/ / |Week 10 - Cybersucurity|  |  |
+|2024/3/30|Week 1 - C|Murky|Murky|
+|2024/4/13|Week 2 - Arrays|Murky|Murky|
+|2024/4/27|Week 3 - Algorithm|Tommy|Tommy|
+|2024/5/11|Week 4 - Memory|Yun|Yun|
+|2024/5/25|Week 5 - Data Structures|Yun|Yun|
+|2024/6/8|Week 6 - Python|Yun|Yun|
+|2024/6/22|Week 7 - HTML, CSS, JavaScript|  |  |
+|2024/7/6|Week 8 - SQL|Tommy |Tommy|
+|2024/7/20|Week 9 - Flask|  |  |
+|2024/8/3|Week 10 - Cybersucurity|  |  |
