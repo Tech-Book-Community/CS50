@@ -48,21 +48,7 @@ zeros and ones can also be used to represent colors. Color in a pixel can be rep
  
 > Algorithm: When you try to solve a problem, you might consider the size of the problem and how many times to solve it. Then break it down into small pieces, and solve them one by one.
     >  Binary tree: 
-Murky showed how to write a binary search in TypeScript.
 
-> Scratch
-A graphical and intuitive programming language, you can build an anemi, game, ..., etc, using Scratch.
-In course week 0, it is used to demonstrate basic programming concepts.
-
-> Introduce how to use CS50 web resources.
-Navigated through blocks of CS50 website and demonstrated where to find lecture videos and notes.
-
-
----
-> End of notes
----
-
-### Binary Tree Code
 ```typescript
     function binary_search_rightmost(tradesBeenSearch: FormattedTradeDto[], endTime: number): number {
       let l = 0;
@@ -80,6 +66,18 @@ Navigated through blocks of CS50 website and demonstrated where to find lecture 
       return r - 1;
     }
 ```
+
+> Scratch
+A graphical and intuitive programming language, you can build an anemi, game, ..., etc, using Scratch.
+In course week 0, it is used to demonstrate basic programming concepts.
+
+> Introduce how to use CS50 web resources.
+Navigated through blocks of CS50 website and demonstrated where to find lecture videos and notes.
+
+
+---
+> End of notes
+---
 
 ### Resources
 
