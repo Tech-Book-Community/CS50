@@ -46,9 +46,8 @@ Representing data in zero and one.
     >  Image
 zeros and ones can also be used to represent colors. Color in a pixel can be represented by 3 values, Red, Green, and Blue. And for bitmap, its value rises from 0 to 255, which means each color has 256 color depths. 
  
-> Algorithm: When you try to solve a problem, you might consider the size of the problem and how many times to solve it. Then break it down into small pieces, and solve them one by one.
+> Algorithm: When you try to solve a problem, you might consider the size of the problem and how many times to solve it. Then break it down into small pieces, and solve them one by one.</br>
     >  Binary tree: 
-
 ```typescript
     function binary_search_rightmost(tradesBeenSearch: FormattedTradeDto[], endTime: number): number {
       let l = 0;
