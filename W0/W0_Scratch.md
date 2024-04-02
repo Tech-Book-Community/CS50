@@ -75,8 +75,6 @@ Navigated through blocks of CS50 website and demonstrated where to find lecture 
 
 
 ---
-> End of notes
----
 
 ### Resources
 
