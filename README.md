@@ -24,5 +24,5 @@
 |2024/6/8|Week 6 - Python|Yun|Yun|
 |2024/6/22|Week 7 - HTML, CSS, JavaScript|  |  |
 |2024/7/6|Week 8 - SQL|Tommy |Tommy|
-|2024/7/20|Week 9 - Flask|  |  |
+|2024/7/20|Week 9 - Flask| Murky | Murky |
 |2024/8/3|Week 10 - Cybersucurity|  |  |
