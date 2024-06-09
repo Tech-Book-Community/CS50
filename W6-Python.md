@@ -259,10 +259,7 @@ In this problem, when you use "with open( )" the code below should be indented w
     * from Anaconda
         * Include many python packages
     
-*　Enviroment setup:
-    *　OS
-    *　Path  
-    *　Extensions 
+* Environment setup
     
 * Packages management: to avoid packages dependencies' conflicts
     * conda, pip, pypi
