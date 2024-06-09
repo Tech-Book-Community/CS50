@@ -22,7 +22,7 @@
 |2024/5/11|Week 4 - Memory|Yun|Yun|
 |2024/5/25|Week 5 - Data Structures|Yun|Yun|
 |2024/6/8|Week 6 - Python|Yun|Yun|
-|2024/6/22|Week 7 - HTML, CSS, JavaScript|Tommy|Tommy|
-|2024/7/6|Week 8 - SQL|Tommy |Tommy|
+|2024/6/22|Week 7 - SQL|Tommy|Tommy|
+|2024/7/6|Week 8 - HTML, CSS, JavaScript|Tommy |Tommy|
 |2024/7/20|Week 9 - Flask| Murky | Murky |
 |2024/8/3|Week 10 - Cybersucurity|Yun|Yun|
