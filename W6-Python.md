@@ -23,7 +23,7 @@ for(int counter = 0; counter < 5; counter++)
 ```
 
 Translate it to Python:
-```python
+```python=
 for counter in range(5):
     result = counter * couner;    
     print(result); 
@@ -37,7 +37,7 @@ Comment in C:
 ```
 
 Comment in Python:
-```python
+```Python=
 # Calculate power of two for the variable counter
 ```
 
@@ -52,7 +52,7 @@ Types in C and Python are highly overlapping, and some commonly used types inclu
 Introducing some unique data structures in Python.
 * Tuple: A tuple is a group composed of many elements, which can contain different types. Once declared, the direction of data is fixed.
 
-```python
+```python=
 # Demonstrate tuple
 tuple1 = ()
 
@@ -68,7 +68,7 @@ print(tuple2)
 * Dictionary
 Dict consists of keys and corresponding values. The dictionary is in a non-order sequence.
 
-```python
+```python=
 #Dictionary
 dict1 = {'starsign1':'Aries', 'starsign2':'Taurus', 'starsign3':'Gemini'}
 print("Whole dictionary is: ", dict1)
@@ -93,7 +93,7 @@ print("Delet the whole dictionary: ", dict1)
 * Set
 The set stores non-order sequence data and will automatically remove repeated elements.
 
-```python
+```python=
 s1 = set();
 s1={1, 2, 3, 2, 1};
 # s1 will remove repeated element: 1, 2 automatically
@@ -102,7 +102,7 @@ s1={1, 2, 3, 2, 1};
 4. Conditionals:
 Conditionals in Python are similar to another language, but they still have subtle differences.
 Take the if-else statement as an example:
-```python
+```python=
 # if-else statement
 x = 4;
 y = 6;
@@ -116,7 +116,7 @@ else:
 ```
 
 Lacking correct indentation will raise an error as follows:
-```python
+```python=
 # Statements without correct indentation
 x = 4;
 y = 6;
@@ -132,7 +132,7 @@ print("x is equal to y")
 5. Calculator:
 Python can also be a calculator, but be aware of the truncation and floating point imprecision. For example:
 
-```python
+```python=
 # Calculate devision
 x = int (input("x: "))
 y = int (input("y: "))
@@ -149,7 +149,7 @@ Output result:
 6. OOP(Object-Oriented Programming) 
 From previous weeks' lectures, we've learned about functional programming. From this week, Python introduces a new method: Object-Oriented programming(short as OOP), accessing function property by treating the function as an object.
 
-```python
+```python=
 s = input("Do you agree? ")
 
 if s.lower() in ["y", "yes"]:
@@ -170,7 +170,7 @@ The character "." dot is a method to access the function lower( ), which changes
 ![image](https://hackmd.io/_uploads/SJyzChZrC.png)
 
 
-```python
+```python=
 import urllib.parse, urllib.request
 from bs4 import BeautifulSoup
 urlstr = 'http://www.gotop.com.tw/'
@@ -180,7 +180,7 @@ bs = BeautifulSoup(htmlContent.decode(), 'html.parser')
 ```
 
 * Computer vision: openCV
-OpenCV is used for computer vision, machine learning, image processing and video processing. 
+OpenCV is short for Open Sourcer Computer Vision Library, is used for computer vision, machine learning, image processing and video processing. 
 Some applications of OpenCV: 
     * Face recognition
     * Image Enhancement
@@ -189,7 +189,7 @@ Some applications of OpenCV:
     * Video/Image search and retrieval
     * ...and more
 
-```python
+```python=
 # demo read and show an image
 import cv2
 img = cv2.imread("pic.jpg", cv2.IMREAD_COLOR)
@@ -197,6 +197,17 @@ cv2.imshow("image", img)
 cv2.waitKey(0)
 print(img)
 ```
+* Result of "print( )":
+
+![image](https://hackmd.io/_uploads/SyaxBjVBC.png)
+
+</br>
+
+* Result of "cv2.imgshow( )"
+
+![ImgshowP](https://hackmd.io/_uploads/BkHZUjEr0.jpg)
+
+
 
 * Data analysis: Numpy,Pytorch, Tensorflow...
 ***Learn more usage on the bottom link: Python documentation***
@@ -220,14 +231,14 @@ By the method of recognizing a person by counting short Tandem Repeats(STRs). Fo
 ![image](https://hackmd.io/_uploads/B1EwoHa4A.png)
 .csv data in the file database, the first row contains the name of nucleotides  DNA.
 
-```python
+```python=
 # List stores STRs which obtained by function key()
 dictkeys = list(row[0].keys())
 STRs = dictkeys[1:len(dictkeys)]
 ```
 1. Count repeated times for each STR from the input .txt file. (The person we are trying to recognize)
 
-```python
+```python=
 for i in range(len(STRs)):
     # Set STRs in list above as subsequence
     subsequence = STRs[i]
@@ -237,7 +248,7 @@ for i in range(len(STRs)):
 append() is used to add numbers returning from longest_match() into the STRmatch[ ] list. 
 
 2. The function longest_match() finds the repeated times of STRs in the database and uses the input profile to find the matched person.
-```python
+```python=
 # Stored each set of numbers (from rows in database)
 # into a 2-dimensional list
 for i in range(len(rows)):
@@ -258,17 +269,15 @@ In this problem, when you use "with open( )" the code below should be indented w
     * from python website + IDE setup
     * from Anaconda
         * Include many python packages
-    
-* Environment setup
-    
-* Packages management: to avoid packages dependencies' conflicts
+        
+* Enviroment setup:
+
+* Packages management: to avoid dependencies' conflicts
     * conda, pip, pypi
-    
 * Introduce a package management tool: [**poetry**](https://hackmd.io/zBjSwpKaSAmXVdvv8raJgw?view)
 
 ---
 
-## Python Documentation
+#### Python Documentation
 1.  [Python Doc]([docs.python.org](https://docs.python.org/3/))
 2.  [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html#text) 
-
