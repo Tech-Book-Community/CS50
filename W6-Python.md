@@ -283,5 +283,5 @@ In this problem, when you use "with open( )" the code below should be indented w
 ---
 
 #### Python Documentation
-1.  [Python Doc]([docs.python.org](https://docs.python.org/3/))
+1.  [Python Doc](https://docs.python.org/3/)
 2.  [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html#text) 
