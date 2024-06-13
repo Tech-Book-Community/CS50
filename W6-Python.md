@@ -205,9 +205,7 @@ print(img)
 
 * Result of "cv2.imgshow( )"
 
-![ImgshowP](https://hackmd.io/_uploads/BkHZUjEr0.jpg)
-
-
+![ImgshowCV](https://hackmd.io/_uploads/Bk5-l1_r0.jpg)
 
 * Data analysis: Numpy,Pytorch, Tensorflow...
 ***Learn more usage on the bottom link: Python documentation***
