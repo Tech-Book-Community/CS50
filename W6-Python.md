@@ -164,12 +164,11 @@ The character "." dot is a method to access the function lower( ), which changes
 
 ## Application
 * web scrawling: Beautiful soup
-    * Web page
+* Web page
       
 ![image](https://hackmd.io/_uploads/rJxByChZSA.png)
 
-    * Parse result:
-  
+* Parse result:
 ![image](https://hackmd.io/_uploads/SJyzChZrC.png)
 
 
