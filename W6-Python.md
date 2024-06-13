@@ -144,6 +144,7 @@ print(z)
 print(f"{z:.4f}")
 ```
 Output result:
+
 ![image](https://hackmd.io/_uploads/Bk7bwB3NR.png)
     
 6. OOP(Object-Oriented Programming) 
@@ -164,9 +165,11 @@ The character "." dot is a method to access the function lower( ), which changes
 ## Application
 * web scrawling: Beautiful soup
     * Web page
+      
 ![image](https://hackmd.io/_uploads/rJxByChZSA.png)
 
-    * Parse result: 
+    * Parse result:
+  
 ![image](https://hackmd.io/_uploads/SJyzChZrC.png)
 
 
