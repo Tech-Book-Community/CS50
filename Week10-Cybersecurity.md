@@ -9,7 +9,7 @@ To protect information, property, and more.
 For example:
 Secure your account, Data, System, Software,…
 
-## Some suggestions for creatiing your password
+## Suggestions for creatiing your password
 *	For user:
 
 －>　Avoid easy password like:123456, abc, qweryui, etc,…
