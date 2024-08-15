@@ -35,12 +35,12 @@ Deletion in computer didn't really remove "all" data. It still preserves remnant
 ## Technique
 * Hashing
 Using difficult math to encrypt your information. One-way hashing allows only the hashed password to be stored, so your original password wouldn't be known.
-![image]( https://hackmd.io/_uploads/Hyynx7Uc0.png)
+![image](https://hackmd.io/_uploads/Hyynx7Uc0.png)
 
-![image]( https://hackmd.io/_uploads/BJYaemUq0.png)
+![image](https://hackmd.io/_uploads/BJYaemUq0.png)
 
 To avoid the same result, add another input to interfere the result:
-![image]( https://hackmd.io/_uploads/r1wH4QL5A.png)
+![image](https://hackmd.io/_uploads/r1wH4QL5A.png)
 ![image](https://hackmd.io/_uploads/HJHvVmUqC.png)
 
 ## Cryptography
