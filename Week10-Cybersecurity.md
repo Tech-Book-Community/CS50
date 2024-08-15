@@ -14,11 +14,12 @@ Secure your account, Data, System, Software,…
 
 －>　Avoid easy password like:123456, abc, qweryui, etc,…
 
-－>　Combine characters(including upper and lower case) and symbols
+－>　Combine characters (including upper and lower case) and symbols
 
 －>　Change your password periodically.
 
 *	For Verifiers:
+
 －>　Verifiers should allow all printed ASCII characters and Unicode symbols up to 64 characters in length. (Enhancement of complexity)
 
 －>　Verifiers should not allow unauthenticated claimants to access password hints. (Only trust authenticated services)
@@ -34,6 +35,7 @@ Automatically generate complicated passwords and remember them for you.
 Verify your identity with two devices.
 End-to-end Encryption
 End-to-end encryption is a way of encrypting and decrypting on the same system without a middleman. (A more practical example is Zoom and Apple messages.)
+
 ## Interesting fact
 Deletion in the computer didn't remove "all" data. It still preserves remnants in your hard disk.
 
